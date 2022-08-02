@@ -38,6 +38,7 @@
                                 </tr>
                                 </thead>
                                 <tbody>
+
                                 @foreach($posts as $post)
                                     <tr>
                                         <td>{{$post->id}}</td>
