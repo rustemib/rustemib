@@ -11,21 +11,6 @@
 ### Glad to see you here!  
 Hello! I'm a full-stack developer. I enjoy everything new and love designing web applications. I have worked as an engineer for a long time.  
   
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
 <br/>  
 
 
